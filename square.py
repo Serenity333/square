@@ -1,5 +1,5 @@
-#module to draw a square with a Turtle. WARNING: Does NOT include the Turtle setup; assumes Turtle to be named 'bob'
+#module to draw a square with a Turtle. WARNING: Does NOT include the Turtle setup
 
 for i in range(4):
-    bob.fd(100)
-    bob.lt(90)
+    t.fd(100)
+    t.lt(90)
